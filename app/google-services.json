@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489407572028",
+    "project_id": "bassmusic-1469b",
+    "storage_bucket": "bassmusic-1469b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489407572028:android:323bed7372a9dd6e3cfb39",
+        "android_client_info": {
+          "package_name": "com.dineshprabha.bassmusic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB3MnYODpFPKEei8NXlGNDG_CvvAjwAlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
